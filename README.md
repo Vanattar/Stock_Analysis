@@ -9,8 +9,7 @@ VBA is useful in the financial industry evidenced by the client's need for the a
 
 Two links to images for measures of performance.
 https://github.com/Vanattar/Stock_Analysis/blob/main/Screen%20Shot%202022-06-19%20at%2012.08.31%20AM.png
-
-
+https://github.com/Vanattar/Stock_Analysis/blob/main/Screen%20Shot%202022-06-19%20at%2012.09.02%20AM.png
 
 ### What are the advantages or disadvantages of refactoring code?
 The refactoring editorial process introduces new statements and code. VBA doesn't care much what your code looks like as long as everything is typed correctly and placed in the right order. A new code must have precise placement in the script or it will disrupt the refactor. That resuts in delays. Code scripts that have neither been well documented nor contain useful “comments” sections are more difficult to understand and refactor. A well composed source and clean scripting style makes the refactoring process easier and in contrast to bad smelling code. Additional macros further develop and enhance the functionality of the workbook. The initial analytic tool was refactored inorder to search and structure more data than the original tool. The refactor improved the use.
